@@ -1,28 +1,34 @@
-# spotify-github-profile
+# Spotify Github Profile
+A Beltway Cloud flavor of connecting Spotify to your Github profile.
+
+
+***
+
+
 
 Create Spotify now playing card on your github profile
 
 Running on Vercel serverless function, store data in Firebase (store only access_token, refresh_token, token_expired_timestamp)
 
-Table of Contents  
-[Connect And Grant Permission](#connect-and-grant-permission)  
-[Example](#example)  
-[Running for development locally](#running-for-development-locally)  
-[Setting up Vercel](#setting-up-vercel)  
-[Setting up Firebase](#setting-up-firebase)  
-[Setting up Spotify dev](#setting-up-spotify-dev)  
-[Running locally](#running-locally)  
-[How to Contribute](#how-to-contribute)  
-[Known Bugs](#known-bugs)  
-[Features in Progress](#features-in-progress)  
-[Credit](#credit)  
+Table of Contents
+[Connect And Grant Permission](#connect-and-grant-permission)
+[Example](#example)
+[Running for development locally](#running-for-development-locally)
+[Setting up Vercel](#setting-up-vercel)
+[Setting up Firebase](#setting-up-firebase)
+[Setting up Spotify dev](#setting-up-spotify-dev)
+[Running locally](#running-locally)
+[How to Contribute](#how-to-contribute)
+[Known Bugs](#known-bugs)
+[Features in Progress](#features-in-progress)
+[Credit](#credit)
 
 
 ## Connect And Grant Permission
 
 - Click `Connect with Spotify` button below to grant permission
 
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.vercel.app/api/login)
+[<img src="/img/btn-spotify.png">](http://ghspotify.beltway.cloud/api/login)
 
 ## Example
 
