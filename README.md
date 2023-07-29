@@ -1,7 +1,6 @@
 # Spotify Github Profile
 A Beltway Cloud flavor of connecting Spotify to your Github profile.
 
-
 ***
 
 
